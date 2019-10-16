@@ -1,35 +1,35 @@
-,Code,Description
-0,ALL, All countries used when reporting survey indices
-1,BE, Belgium
-2,BG, Bulgaria
-3,CA, Canada
-4,DE, Germany
-5,DK, Denmark
-6,EE, Estonia
-7,ES, Spain
-8,FI, Finland
-9,FO, Faroe Islands
-10,FR, France
-11,GG, UK (Channel Island Guernsey)
-12,GL, Greenland
-13,IE, Ireland
-14,IM, UK (Isle of Man)
-15,IS, Iceland
-16,IT, Italy
-17,JE, UK (Channel Island Jersey)
-18,LT, Lithuania
-19,LV, Latvia
-20,NL, Netherlands
-21,NO, Norway
-22,OT1, First unknown country
-23,OT2, Second unknown country
-24,OT3, Third unknown country
-25,PL, Poland
-26,PT, Portugal
-27,RU, Russia
-28,SE, Sweden
-29,UK, United Kingdom
-30,UKE, UK (England)
-31,UKN, UK(Northern Ireland)
-32,UKS, UK(Scotland)
-33,US, United States
+Code,Description
+ALL, All countries used when reporting survey indices
+BE, Belgium
+BG, Bulgaria
+CA, Canada
+DE, Germany
+DK, Denmark
+EE, Estonia
+ES, Spain
+FI, Finland
+FO, Faroe Islands
+FR, France
+GG, UK (Channel Island Guernsey)
+GL, Greenland
+IE, Ireland
+IM, UK (Isle of Man)
+IS, Iceland
+IT, Italy
+JE, UK (Channel Island Jersey)
+LT, Lithuania
+LV, Latvia
+NL, Netherlands
+NO, Norway
+OT1, First unknown country
+OT2, Second unknown country
+OT3, Third unknown country
+PL, Poland
+PT, Portugal
+RU, Russia
+SE, Sweden
+UK, United Kingdom
+UKE, UK (England)
+UKN, UK(Northern Ireland)
+UKS, UK(Scotland)
+US, United States
