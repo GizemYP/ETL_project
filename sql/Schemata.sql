@@ -1,9 +1,14 @@
 CREATE TABLE fish (
 Species VARCHAR(225),
 scientific_name VARCHAR(225),
-name VARCHAR(225),
 family VARCHAR(225),
 PRIMARY KEY (Species)
+)
+
+CREATE TABLE fish_name (
+Species VARCHAR(225),
+name VARCHAR(225),
+FOREIGN KEY (Species) REFERENCES fish(Species)
 )
 
 CREATE TABLE country (
